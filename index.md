@@ -1,4 +1,6 @@
+&nbsp;
 
+&nbsp;
 
 I’m an ecologist that studies complex ecological networks and develops new tools to do so. My research spans three main areas: understanding the responses of ecological networks to environmental and anthropogenic pressures; disentangling the determinants of network structure; and developing cutting-edge tools for ecological network analysis. 
 
