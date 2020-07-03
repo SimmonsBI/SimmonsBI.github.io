@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
 Details of my publications are also available on Google Scholar. 
 
 
