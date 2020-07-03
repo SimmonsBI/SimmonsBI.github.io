@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+I’m an ecologist that studies complex ecological networks and develops new tools to do so. My research spans three main areas: understanding the responses of ecological networks to environmental and anthropogenic pressures; disentangling the determinants of network structure; and developing cutting-edge tools for ecological network analysis. 
 
-You can use the [editor on GitHub](https://github.com/SimmonsBI/SimmonsBI.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Currently, I'm a Royal Commission for the Exhibition of 1851 Research Fellow at the University of Exeter, working with Christopher Kaiser-Bunbury on the effects of invasive species on plant-pollinator networks. Previously, I was a postdoc at the University of Sheffield, working with Andrew Beckerman to understand the effects of multiple simultaneous stressors on food webs, and a PhD student at the University of Cambridge, working with William Sutherland and Lynn Dicks on the structure and stability of mutualistic networks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimmonsBI/SimmonsBI.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For further details please see my research or publications.
