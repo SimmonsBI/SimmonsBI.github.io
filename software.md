@@ -1,3 +1,9 @@
+---
+layout: page
+title: Software
+permalink: /software/
+---
+
 **BMOTIF**
 
 bmotif is software for motif analyses of bipartite networks. It can count occurrences of motifs in bipartite networks, as well as the number of times each node or link appears in each unique node or link position within motifs (a node or link’s structural role). bmotif also supports weighted networks and can calculate the mean weight of motifs, as well as the standard deviation of motifs mean weights. Various weighted node and link position measures are also available. bmotif is primarily an R package, but core functionality is also available in MATLAB and Python.
