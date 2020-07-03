@@ -6,9 +6,7 @@ permalink: /publications/
 
 Details of my publications are also available on Google Scholar. 
 
-
-
-PREPRINTS
+### PREPRINTS
 
 26. Simmons, B. I., Beckerman, A. P., Hansen, K., Maruyama, P. K., Vizentin-Bugoni, J., Dalsgaard, B. Niche-based processes and neutrality influence patterns of indirect interactions in mutualistic networks. bioRxiv, doi: https://doi.org/10.1101/2020.04.30.070391
 
@@ -17,7 +15,7 @@ PREPRINTS
 24. Simmons, B. I., Wauchope, H. S., Amano, T., Dicks, L. V., Sutherland, W. J. and Dakos, V. Vulnerable species interactions are important for the stability of mutualistic networks. bioRxiv 604868; doi: https://doi.org/10.1101/604868
 
 
-PEER-REVIEWED JOURNAL ARTICLES
+### PEER-REVIEWED JOURNAL ARTICLES
 
 24. Hansen, K., Sritongchuay, T., Bumrungsri, S., Simmons, B. I., Strange, N. and Dalsgaard, B. Landscape-level effects of forest on pollinators and fruit-set of guava (Psidium guajava L.) in orchards across Southern Thailand. Diversity (accepted).
 
