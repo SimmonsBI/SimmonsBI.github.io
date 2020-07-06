@@ -17,4 +17,4 @@ I am interested in uncovering the factors influencing the observed structure of 
 
 ### NEW TOOLS TO ANALYSE ECOLOGICAL NETWORKS
 
-I develop new software tools to analyse ecological networks. Networks are structures that are very amenable to computational and mathematical analysis, and I create tools that enable new methods or reimplement existing methods in highly efficient ways. Further information about the tools I have developed can be found on the software page.
+I develop new software tools to analyse ecological networks. Networks are structures that are very amenable to computational and mathematical analysis, and I create tools that enable new methods or reimplement existing methods in highly efficient ways. Further information about the tools I have developed can be found on the [software](/software) page.
