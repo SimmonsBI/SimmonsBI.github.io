@@ -28,9 +28,12 @@ body {
 
 a:link {
 	color:$darkGray;
-	text-decoration: underline;
-	padding-bottom:2px;
-	text-underline-offset: 4px;
+	text-decoration: none;
+//	border-color:#ededed;
+	padding-bottom:0.1em;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+//	text-underline-offset: 4px;
 }
 
 a:visited {
