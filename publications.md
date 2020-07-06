@@ -68,5 +68,5 @@ Details of my publications are also available on [Google Scholar](https://schola
 
 2. Newbold, T., Hudson, L. N., Arnell, A. P., Contu, S., De Palma, A., Ferrier, S., Hill, S. L. L., Hoskins, A. J., Lysenko, I., Phillips, H. R. P., Burton, V. J., Chng, C. W. T., Emerson, S., Gao, D., Pask-Hale, G., Hutton, J., Jung, M., Sanchez-Ortiz, K., **Simmons, B. I.**, Whitmee, S., Zhang, H., Scharlemann, J. P. W., Purvis, A. (2016). Has land use pushed terrestrial biodiversity beyond the planetary boundary? A global assessment. _Science_, 353(6296), 288-291.
 
-1. Gray, C. L.*, **Simmons, B. I.***, Fayle, T. M., Mann, D. J. and Slade, E. M. (2016). Are riparian forest reserves sources of invertebrate biodiversity spillover and associated ecosystem functions in oil palm landscapes? _Biological Conservation_, 194, 176-183. * Joint first authors
+1. Gray, C. L.\*, **Simmons, B. I.**, Fayle, T. M., Mann, D. J. and Slade, E. M. (2016). Are riparian forest reserves sources of invertebrate biodiversity spillover and associated ecosystem functions in oil palm landscapes? _Biological Conservation_, 194, 176-183. * Joint first authors
 
