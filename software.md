@@ -10,7 +10,7 @@ bmotif is software for motif analyses of bipartite networks. It can count occurr
 
 Developed in collaboration with Riccardo Di Clemente, Maybritt Schillinger and Michelle Sweering (alphabetical order).
 
-Paper; CRAN; Github R; Github MATLAB; Github Python
+[Paper](https://doi.org/10.1111/2041-210X.13149); [CRAN](https://cran.r-project.org/package=bmotif); [Github R](https://github.com/SimmonsBI/bmotif); [Github MATLAB](https://github.com/SimmonsBI/bmotif-matlab); [Github Python](https://github.com/SimmonsBI/bmotif-python)
 
 ### MAXNODF
 
@@ -18,6 +18,6 @@ maxnodf is software in R for calculating the maximum nestedness (measured as NOD
 
 Developed in collaboration with Christoph Hoepkke.
 
-Preprint; CRAN; Github R
+[Preprint](https://doi.org/10.1101/2020.03.20.000612); [CRAN](https://cran.r-project.org/package=maxnodf); [Github R](https://github.com/christophhoeppke/maxnodf/)
 
 Song, C., Rohr, R.P. and Saavedra, S., 2017. Why are some plant–pollinator networks more nested than others?. Journal of Animal Ecology, 86(6), pp.1417-1424.
