@@ -1,3 +1,8 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
 
 
 My research generally fits into three themes: (i) studying how ecological networks are affected by environmental and anthropogenic pressures, (ii) understanding the factors governing observed network structure, and (iii) developing new tools to analyse ecological networks.
