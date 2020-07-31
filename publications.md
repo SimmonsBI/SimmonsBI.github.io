@@ -15,14 +15,12 @@ Details of my publications are also available on [Google Scholar](https://schola
 
 25. Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _bioRxiv_, doi: [https://doi.org/10.1101/2020.03.20.000612](https://doi.org/10.1101/2020.03.20.000612)
 
-24. **Simmons, B. I.**, Wauchope, H. S., Amano, T., Dicks, L. V., Sutherland, W. J. and Dakos, V. Vulnerable species interactions are important for the stability of mutualistic networks. _bioRxiv_ 604868; doi: [https://doi.org/10.1101/604868](https://doi.org/10.1101/604868)
-
 
 ### PEER-REVIEWED JOURNAL ARTICLES
 
 {: reversed="reversed"}
 
-25. **Simmons, B. I.**, Wauchope, H. S., Amano, T., Dicks, L. V., Sutherland, W. J. and Dakos, V. Estimating the risk of species interaction loss in mutualistic communities. _PLOS Biology_ (in press).
+25. **Simmons, B. I.**, Wauchope, H. S., Amano, T., Dicks, L. V., Sutherland, W. J. and Dakos, V. Estimating the risk of species interaction loss in mutualistic communities. _PLOS Biology_ (in press). [[bioRxiv preprint](https://doi.org/10.1101/604868)]
 
 24. Hansen, K., Sritongchuay, T., Bumrungsri, S., **Simmons, B. I.**, Strange, N. and Dalsgaard, B. Landscape-level effects of forest on pollinators and fruit-set of guava (Psidium guajava L.) in orchards across Southern Thailand. _Diversity_ (accepted).
 
