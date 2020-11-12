@@ -4,25 +4,25 @@ title: Publications
 permalink: /publications/
 ---
 
-Details of my publications are also available on [Google Scholar](https://scholar.google.com/citations?user=sHlEv_gAAAAJ&hl=en). 
+Details of my publications are also available on [Google Scholar](https://scholar.google.com/citations?user=sHlEv_gAAAAJ&hl=en).
 
 ### PREPRINTS
 
 {: reversed="reversed"}
 {:start="27"}
 
-26. **Simmons, B. I.**, Beckerman, A. P., Hansen, K., Maruyama, P. K., Vizentin-Bugoni, J., Dalsgaard, B. Niche-based processes and neutrality influence patterns of indirect interactions in mutualistic networks. _bioRxiv_, doi: [https://doi.org/10.1101/2020.04.30.070391](https://doi.org/10.1101/2020.04.30.070391)
-
-25. Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _bioRxiv_, doi: [https://doi.org/10.1101/2020.03.20.000612](https://doi.org/10.1101/2020.03.20.000612)
+27. Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _bioRxiv_, doi: [https://doi.org/10.1101/2020.03.20.000612](https://doi.org/10.1101/2020.03.20.000612)
 
 
 ### PEER-REVIEWED JOURNAL ARTICLES
 
 {: reversed="reversed"}
 
-25. **Simmons, B. I.**, Wauchope, H. S., Amano, T., Dicks, L. V., Sutherland, W. J. and Dakos, V. (2020). Estimating the risk of species interaction loss in mutualistic communities. _PLOS Biology_ (in press). [[bioRxiv preprint](https://doi.org/10.1101/604868)]
+26. **Simmons, B. I.**, Beckerman, A. P., Hansen, K., Maruyama, P. K., Televantos, C., Vizentin-Bugoni, J., Dalsgaard, B. Niche and neutral processes leave distinct structural imprints on indirect interactions in mutualistic networks. _Functional Ecology_ (accepted) [[bioRxiv preprint](https://doi.org/10.1101/2020.04.30.070391)]
 
-24. Hansen, K., Sritongchuay, T., Bumrungsri, S., **Simmons, B. I.**, Strange, N. and Dalsgaard, B. (2020). Landscape-level effects of forest on pollinators and fruit-set of guava (Psidium guajava L.) in orchards across Southern Thailand. _Diversity_ (accepted).
+25. **Simmons, B. I.**, Wauchope, H. S., Amano, T., Dicks, L. V., Sutherland, W. J. and Dakos, V. (2020). Estimating the risk of species interaction loss in mutualistic communities. _PLOS Biology_, 18, e3000843. [[bioRxiv preprint](https://doi.org/10.1101/604868)]
+
+24. Hansen, K., Sritongchuay, T., Bumrungsri, S., **Simmons, B. I.**, Strange, N. and Dalsgaard, B. (2020). Landscape-level effects of forest on pollinators and fruit-set of guava (Psidium guajava L.) in orchards across Southern Thailand. _Diversity_, 12, 259.
 
 23. Christie, A. P., Amano, T., Martin, P. A., Petrovan, S. O., Shackelford, G. E., **Simmons, B. I.**, Smith, R. K., Williams, D. R., Wordley, C. F. R. and Sutherland, W. J. (2020). Poor availability of context-specific evidence hampers decision-making in conservation. _Biological Conservation_, 248, 108666. [[bioRxiv preprint](https://doi.org/10.1101/2020.02.13.946954)]
 
@@ -69,4 +69,3 @@ Details of my publications are also available on [Google Scholar](https://schola
 2. Newbold, T., Hudson, L. N., Arnell, A. P., Contu, S., De Palma, A., Ferrier, S., Hill, S. L. L., Hoskins, A. J., Lysenko, I., Phillips, H. R. P., Burton, V. J., Chng, C. W. T., Emerson, S., Gao, D., Pask-Hale, G., Hutton, J., Jung, M., Sanchez-Ortiz, K., **Simmons, B. I.**, Whitmee, S., Zhang, H., Scharlemann, J. P. W., Purvis, A. (2016). Has land use pushed terrestrial biodiversity beyond the planetary boundary? A global assessment. _Science_, 353(6296), 288-291.
 
 1. Gray, C. L.\*, **Simmons, B. I.**\*, Fayle, T. M., Mann, D. J. and Slade, E. M. (2016). Are riparian forest reserves sources of invertebrate biodiversity spillover and associated ecosystem functions in oil palm landscapes? _Biological Conservation_, 194, 176-183. * Joint first authors
-
