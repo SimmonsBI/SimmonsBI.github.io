@@ -9,16 +9,18 @@ Details of my publications are also available on [Google Scholar](https://schola
 ### PREPRINTS
 
 {: reversed="reversed"}
-{:start="27"}
+{:start="28"}
 
-27. Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _bioRxiv_, doi: [https://doi.org/10.1101/2020.03.20.000612](https://doi.org/10.1101/2020.03.20.000612)
+28. Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _bioRxiv_, doi: [https://doi.org/10.1101/2020.03.20.000612](https://doi.org/10.1101/2020.03.20.000612)
 
 
 ### PEER-REVIEWED JOURNAL ARTICLES
 
 {: reversed="reversed"}
 
-26. **Simmons, B. I.**, Beckerman, A. P., Hansen, K., Maruyama, P. K., Televantos, C., Vizentin-Bugoni, J., Dalsgaard, B. Niche and neutral processes leave distinct structural imprints on indirect interactions in mutualistic networks. _Functional Ecology_ (accepted) [[bioRxiv preprint](https://doi.org/10.1101/2020.04.30.070391)]
+27. **Simmons, B. I.**, Beckerman, A. P., Hansen, K., Maruyama, P. K., Televantos, C., Vizentin-Bugoni, J., Dalsgaard, B. Niche and neutral processes leave distinct structural imprints on indirect interactions in mutualistic networks. _Functional Ecology_ (accepted) [[bioRxiv preprint](https://doi.org/10.1101/2020.04.30.070391)]
+
+26. Wauchope, H. S., Amano, T., Geldmann, J., Johnston, A., **Simmons, B. I.**, Sutherland, W. J. and Jones, J. P. G. Evaluating impact using time-series data. _Trends in Ecology and Evolution_ (accepted)
 
 25. **Simmons, B. I.**, Wauchope, H. S., Amano, T., Dicks, L. V., Sutherland, W. J. and Dakos, V. (2020). Estimating the risk of species interaction loss in mutualistic communities. _PLOS Biology_, 18, e3000843. [[bioRxiv preprint](https://doi.org/10.1101/604868)]
 
