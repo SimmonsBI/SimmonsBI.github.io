@@ -11,12 +11,14 @@ Details of my publications are also available on [Google Scholar](https://schola
 {: reversed="reversed"}
 {:start="28"}
 
-28. Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _bioRxiv_, doi: [https://doi.org/10.1101/2020.03.20.000612](https://doi.org/10.1101/2020.03.20.000612)
+I currently have no unpublished preprints.
 
 
 ### PEER-REVIEWED JOURNAL ARTICLES
 
 {: reversed="reversed"}
+
+28. Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _Methods in Ecology and Evolution_ (accepted) [[bioRxiv preprint](https://doi.org/10.1101/2020.03.20.000612)]
 
 27. **Simmons, B. I.**, Beckerman, A. P., Hansen, K., Maruyama, P. K., Televantos, C., Vizentin-Bugoni, J., Dalsgaard, B. Niche and neutral processes leave distinct structural imprints on indirect interactions in mutualistic networks. _Functional Ecology_ (accepted) [[bioRxiv preprint](https://doi.org/10.1101/2020.04.30.070391)]
 
