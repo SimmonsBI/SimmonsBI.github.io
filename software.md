@@ -10,7 +10,7 @@ bmotif is software for motif analyses of bipartite networks. It can count occurr
 
 Developed in collaboration with Riccardo Di Clemente, Maybritt Schillinger and Michelle Sweering (alphabetical order).
 
-**Reference**: **Simmons, B. I.**, Sweering, M. J. M., Schillinger, M., Dicks, L. V., Sutherland W. J., Di Clemente, R. (2019). bmotif: a package for motif analyses of bipartite networks. _Methods in Ecology and Evolution_, 10, 695-701.
+**Reference**: Simmons, B. I., Sweering, M. J. M., Schillinger, M., Dicks, L. V., Sutherland W. J., Di Clemente, R. (2019). bmotif: a package for motif analyses of bipartite networks. _Methods in Ecology and Evolution_, 10, 695-701.
 
 [Paper](https://doi.org/10.1111/2041-210X.13149); [CRAN](https://cran.r-project.org/package=bmotif); [Github R](https://github.com/SimmonsBI/bmotif); [Github MATLAB](https://github.com/SimmonsBI/bmotif-matlab); [Github Python](https://github.com/SimmonsBI/bmotif-python)
 
@@ -20,7 +20,7 @@ maxnodf is software in R for calculating the maximum nestedness (measured as NOD
 
 Developed in collaboration with Christoph Hoepkke.
 
-**Reference**: Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _Methods in Ecology and Evolution_ (accepted)
+**Reference**: Hoeppke, C. and Simmons, B. I. maxnodf: an R package for fair and fast comparisons of nestedness between networks. _Methods in Ecology and Evolution_ (accepted)
 
 [Paper](https://doi.org/10.1111/2041-210X.13545);
 [Preprint](https://doi.org/10.1101/2020.03.20.000612); [CRAN](https://cran.r-project.org/package=maxnodf); [Github R](https://github.com/christophhoeppke/maxnodf/)
