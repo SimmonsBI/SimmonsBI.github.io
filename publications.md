@@ -14,7 +14,7 @@ Details of my publications are also available on [Google Scholar](https://schola
 I currently have no unpublished preprints.--->
 
 
-### PEER-REVIEWED JOURNAL ARTICLES
+<!---### PEER-REVIEWED JOURNAL ARTICLES--->
 
 {: reversed="reversed"}
 
