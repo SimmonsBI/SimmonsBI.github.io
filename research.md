@@ -5,7 +5,9 @@ permalink: /research/
 ---
 
 
-My research generally fits into three themes: (i) studying how ecological networks are affected by environmental and anthropogenic pressures, (ii) understanding the factors governing observed network structure, and (iii) developing new tools to analyse ecological networks.
+### ECOLOGICAL FORECASTING
+
+I am interested in using predictive approaches to answer conservation-relevant questions in community ecology. Currently I am working on methods to predict the structure of ecological networks and ecosystem function.
 
 ### THE EFFECTS OF STRESSORS ON ECOLOGICAL NETWORKS
 
@@ -13,7 +15,7 @@ I am interested in the effects of environmental and anthropogenic stressors – 
 
 ### UNDERSTANDING THE PROCESSES GOVERNING NETWORK STRUCTURE
 
-I am interested in uncovering the factors influencing the observed structure of ecological networks. Not only does this provide insight into how communities assemble, but can also help predict the structure of novel communities under global changes.
+I am interested in uncovering the factors influencing the observed structure of ecological networks. Not only does this provide insight into how communities assemble, but can also help predict the structure of novel communities under global changes. Projects in this theme include understanding the role of different structuring processes, such as morphological matching or neutral processes, and attempting to uncover the rules underlying network rewiring. 
 
 ### NEW TOOLS TO ANALYSE ECOLOGICAL NETWORKS
 
