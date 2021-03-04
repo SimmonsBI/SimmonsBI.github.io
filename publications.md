@@ -18,6 +18,8 @@ I currently have no unpublished preprints.--->
 
 {: reversed="reversed"}
 
+29. Dalsgaard, B., Maruyama, P. K., Sonne, J., Hansen, K., Zanata, T. B., Abrahamczyk, S., Alarcón, R., Araujo, A. C., Araújo, F. P., Buzato, S., Chávez-González, E., Coelho, A. G., Cotton, P. A., Díaz-Valenzuela, R., Dufke, M. F., Enríquez, P. L., Filho, M. M. D., Fischer, E., Kohler, G., Lara, C., Las-Casas, F. M. G., Lasprilla, L. R., Machado, A. O., Machado, C. G., Maglianesi, M. A., Malucelli, T. S., Marín-Gómez, O. H., Martínez-García, V., de Azevedo-Júnior, S. M., Neto, E. N., Oliveira, P. E., Ornelas, J. F., Ortiz-Pulido, R., Lara, R. P., Patiño-González, B. I., de Pinho Queiroz, S. N., Ramírez-Burbano, M. B., Rech, A. R., Rocca, M. A, Rodrigues, L. C., Rui, A. M., Sazima, I., Sazima, M., **Simmons, B. I.**, Tinoco, B., Varassin, I. G., Vasconcelos, M. F., Vizentin-Bugoni, J., Watts, S., Rahbek, C., Schleuning, M., Martín-González, A. M. The influence of biogeographical and evolutionary histories on morphological trait-matching and resource specialization in mutualistic hummingbird-plant networks. _Functional Ecology_ (accepted)
+
 28. Hoeppke, C. and **Simmons, B. I.** maxnodf: an R package for fair and fast comparisons of nestedness between networks. _Methods in Ecology and Evolution_ (accepted) [[bioRxiv preprint](https://doi.org/10.1101/2020.03.20.000612)]
 
 27. **Simmons, B. I.**, Beckerman, A. P., Hansen, K., Maruyama, P. K., Televantos, C., Vizentin-Bugoni, J., Dalsgaard, B. Niche and neutral processes leave distinct structural imprints on indirect interactions in mutualistic networks. _Functional Ecology_ (accepted) [[bioRxiv preprint](https://doi.org/10.1101/2020.04.30.070391)]
