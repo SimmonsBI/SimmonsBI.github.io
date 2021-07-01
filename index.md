@@ -1,3 +1,7 @@
+<div style="text-align: center"><img src="/images/me.jpg" width="100" /></div>
+
+
+
 ![alt text](/images/me.jpg)
 
 
