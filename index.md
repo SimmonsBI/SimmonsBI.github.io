@@ -1,4 +1,6 @@
-![alt text](/images/me.jpg)
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 
 
 I'm a [Royal Commission for the Exhibition of 1851](https://www.royalcommission1851.org) Research Fellow and proleptic Lecturer in Ecological Data Science at the University of Exeter. I’m an ecologist and conservationist who uses data science to understand and predict how biodiversity responds to global change and how best it can be conserved in the Anthropocene. Currently, I’m pursuing two parallel lines of research:
