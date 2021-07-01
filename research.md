@@ -4,19 +4,15 @@ title: Research
 permalink: /research/
 ---
 
+### MAKING PREDICTIONS FROM SATELLITE IMAGERY
+Earth observation satellites have captured a huge amount of imagery of the Earth in recent decades. I am interested in combining this imagery with data science approaches like machine learning, to understand and predict the future of biodiversity in the face of global change. I am particularly interested in forest ecosystems, due to their high biodiversity value (approximately 70% of terrestrial species live in forests) and their sequestration of large amounts of carbon. 
 
-### ECOLOGICAL FORECASTING
+I am especially interested in understanding the resilience, resistance and elasticity of forests; our ability to predict forest loss with early warning signals; and the presence of tipping points in forest systems.
 
-I am interested in using predictive approaches to answer conservation-relevant questions in community ecology. Currently I am working on methods to predict the structure of ecological networks and ecosystem function.
+### ECOLOGICAL NETWORKS
 
-### THE EFFECTS OF STRESSORS ON ECOLOGICAL NETWORKS
+I use species interaction networks to understand how biodiversity is responding to global change and predict what will happen to it in the future. 
 
-I am interested in the effects of environmental and anthropogenic stressors – such as climate change, invasive species, pollution, and habitat loss and degradation – on the structure, dynamics and functioning of ecological networks. I am also interested in how network structure influences the robustness, resilience and stability of ecological networks. I tackle these questions using a variety of topological and dynamic network models which allow for realistic perturbations to be simulated, such as species extinctions or increased environmental fluctuations.
+Species interaction networks are an incredibly powerful tool for understanding community-scale biodiversity responses as they allow a simultaneous consideration of the species in the community and the structure of the community as a whole. Moreover, networks are highly amenable to analyses using data science methods.
 
-### UNDERSTANDING THE PROCESSES GOVERNING NETWORK STRUCTURE
-
-I am interested in uncovering the factors influencing the observed structure of ecological networks. Not only does this provide insight into how communities assemble, but can also help predict the structure of novel communities under global changes. Projects in this theme include understanding the role of different structuring processes, such as morphological matching or neutral processes, and attempting to uncover the rules underlying network rewiring. 
-
-### NEW TOOLS TO ANALYSE ECOLOGICAL NETWORKS
-
-I develop new software tools to analyse ecological networks. Networks are structures that are very amenable to computational and mathematical analysis, and I create tools that enable new methods or reimplement existing methods in highly efficient ways. Further information about the tools I have developed can be found on the [software](/software) page.
+Particularly,I am interested in predicting the structure and functioning of networks across space and time; understanding the impacts of stressors on network structure and functioning; understanding the processes that give rise to network structure; and developing new software tools to analyse ecological networks (see [software](/software)).
