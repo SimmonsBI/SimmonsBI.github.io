@@ -18,6 +18,8 @@ I currently have no unpublished preprints.--->
 
 {: reversed="reversed"}
 
+33. **Simmons, B. I.**, Blyth, P. S. A., Blanchard, J. L., Clegg, T., Delmas, E., Garnier, A., Griffiths, C. A., Jacob, U., Pennekamp, F., Petchey, O. L., Poisot, T., Webb, T. J., Beckerman, A. P. (2021). Refocusing multiple stressor research around the targets and scales of ecological impacts. _Nature Ecology and Evolution_.
+
 32. González-Varo, J. P., Rumeu, B., Albrecht, J., Arroyo, J. M., Byeno, R. S., Burgos, T., da Silva, L. P., Escribano-Ávila, G., Farwig, N., García, D., Heleno, R. H., Illera, J. C., Jordano, P., Kurek, P., **Simmons, B. I.**, Virgós, E., Sutherland, W. J., Traveset, A. (2021) Limited potential for bird migration to disperse plants to cooler latitudes. _Nature_.
 
 31. Mukherjee, N., Amano, T., Bell, A., Garnett, E. E., Geffert, J. L., Guth, M. K. Hacket-Pain, A., Luke, S. H., Mumby, H. S., Nunes, M., Rademacher, T., Rose, D. C., Schleicher, J., **Simmons, B. I.**, Zabala, A., Jucker, T. (2021). Steps to diversify priority-setting research in conservation: Reflections on de Gracia 2021. _Conservation Biology_. (accepted)
