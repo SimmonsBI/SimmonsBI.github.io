@@ -18,6 +18,8 @@ I currently have no unpublished preprints.--->
 
 {: reversed="reversed"}
 
+34. Allen-Perkins, A., ... **Simmons, B. I.**, ... Bartomeus, I. CropPol: a dynamic, open and global database on crop pollination. _Ecology_. (accepted)
+
 33. **Simmons, B. I.**, Blyth, P. S. A., Blanchard, J. L., Clegg, T., Delmas, E., Garnier, A., Griffiths, C. A., Jacob, U., Pennekamp, F., Petchey, O. L., Poisot, T., Webb, T. J., Beckerman, A. P. (2021). Refocusing multiple stressor research around the targets and scales of ecological impacts. _Nature Ecology and Evolution_.
 
 32. González-Varo, J. P., Rumeu, B., Albrecht, J., Arroyo, J. M., Byeno, R. S., Burgos, T., da Silva, L. P., Escribano-Ávila, G., Farwig, N., García, D., Heleno, R. H., Illera, J. C., Jordano, P., Kurek, P., **Simmons, B. I.**, Virgós, E., Sutherland, W. J., Traveset, A. (2021) Limited potential for bird migration to disperse plants to cooler latitudes. _Nature_.
